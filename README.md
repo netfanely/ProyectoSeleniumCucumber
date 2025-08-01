@@ -84,7 +84,9 @@ Scenario: Usuario accede directamente a imágenes de Garfield
 
 ## 📷 Captura de pantalla
 
-Puedes agregar capturas con Selenium si lo deseas.
+## 🖼 Vista previa del test en ejecución
+
+![Prueba automatizada en Firefox](docs/garfield_test.png)
 
 ---
 
