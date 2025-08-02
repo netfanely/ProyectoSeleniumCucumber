@@ -30,8 +30,7 @@ Este proyecto automatiza la búsqueda de imágenes en Google (u otros motores) u
 
 ## 📁 Estructura del proyecto
 
-```
-
+```text
 src/
 ├── test/
 │   ├── java/
@@ -45,7 +44,7 @@ src/
 │       └── drivers/
 │           └── chromedriver.exe / geckodriver.exe
 
-````
+```text
 
 ---
 
