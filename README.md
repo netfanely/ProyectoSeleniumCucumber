@@ -44,7 +44,7 @@ src/
 │       └── drivers/
 │           └── chromedriver.exe / geckodriver.exe
 
-```text
+```
 
 ---
 
@@ -55,7 +55,7 @@ src/
 ```text
 git clone https://github.com/tu-usuario/buscar-garfield-selenium.git
 cd buscar-garfield-selenium
-```text
+```
 
 ### 2. Importa el proyecto en IntelliJ IDEA como **proyecto Maven**
 
@@ -77,7 +77,7 @@ Scenario: Usuario accede directamente a imágenes de Garfield
   Given el usuario abre Google en Firefox
   When el usuario abre la búsqueda directa de imágenes con la palabra "Garfield"
   Then se muestran imágenes relacionadas a "Garfield"
-```text
+```
 
 ---
 
